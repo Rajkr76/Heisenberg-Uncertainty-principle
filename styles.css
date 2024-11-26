@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #10daf9fb;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('18236361_rm251-mind-14-g.jpg'); 
+  background-size: cover; 
+  background-position: none; 
+  background-attachment: fixed; 
+
+  }
+  
+  .container {
+    background: rgba(8, 207, 247, 0.881);
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(231, 5, 144, 0.5);
+  
+  }
+  
+  h1 {
+    color: #040006;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 15px;
+    color: #040006;
+  }
+  
+  .input-group {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+  
+  .input-group input {
+    padding: 15px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+  }
+  
+  .button-group button {
+    background: #222;
+    font-size: 17px;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    
+    margin-top: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+   
+  }
+  
+  .button-group button:hover {
+    background: #a75deb;
+
+  }
+  
+ 
+  .result{
+    margin-top: 30px;
+  
+
+  }
